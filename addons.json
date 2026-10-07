@@ -1,0 +1,10 @@
+{
+ "lm": {
+  "name": "lm",
+  "version": "v4",
+  "file": "zhele_lm_v4.zhl",
+  "sha256": "237b3bc8cf97e94e7950d844178f586c9414df28472463471d4d2b4abe3b240a",
+  "bytes": 81968641,
+  "sig": "nImg4kVJQCkVV0qeY_xm7vugfv2HlluVJOxLfW_FaeMnz7_A_r56q2BSMBiPCca9-gEkEeRNcSlx3KcD5fuMBQ"
+ }
+}
