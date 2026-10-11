@@ -1,5 +1,5 @@
 {
-  "version": "0.6.2 (11.10.2026)",
+  "version": "0.6.3 (11.10.2026)",
   "setup": "zhele_setup.exe",
   "addons": {
     "lm": {
@@ -11,10 +11,10 @@
       "sig": "nImg4kVJQCkVV0qeY_xm7vugfv2HlluVJOxLfW_FaeMnz7_A_r56q2BSMBiPCca9-gEkEeRNcSlx3KcD5fuMBQ"
     }
   },
-  "package": "zhele_0.6.2.zhu",
-  "notes": "0.6.2: исправлены запуск при занятом порте, пустое окно при одновременной загрузке модулей и завершение собственных процессов; восстановление прерванных обновлений через стабильный bootstrap; выбор RU/EN, читаемое соглашение и обязательная проверка Python 3.12 x64/зависимостей/native-модулей. Без Authenticode: предупреждения Windows могут сохраняться.",
-  "setup_sha256": "1f3df62f29a749adffc852ebe61c8e30515164cefef1f2d88dc20cfb78fca253",
-  "package_sha256": "e98e4b00e5b61cf35cbf29631c7b91cf0eeb847b7c3010889da88fd269b400c3",
-  "setup_bytes": 32392704,
-  "package_bytes": 32422552
+  "package": "zhele_0.6.3.zhu",
+  "notes": "0.6.3: повреждённые ключи ZA1/ZA2 и сертификаты ZI1 отклоняются без внутренней ошибки и без изменения действующего ключа; уточнены сообщения активации RU/EN. Установщик пока без Authenticode, предупреждения Windows возможны.",
+  "setup_sha256": "f32a1962c767ca7a2608f544120b81d79a3a59ebe59b2da7b1f4c07d5f9519be",
+  "package_sha256": "4a44686c94f0bf6f8574d8132a9bdd97755eaa627e32d55e4c266b4071ec1840",
+  "setup_bytes": 32398848,
+  "package_bytes": 32428576
 }
