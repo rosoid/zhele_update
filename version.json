@@ -1,5 +1,5 @@
 {
-  "version": "0.6.4 (12.10.2026)",
+  "version": "0.6.5 (12.10.2026)",
   "setup": "zhele_setup.exe",
   "addons": {
     "lm": {
@@ -11,10 +11,10 @@
       "sig": "nImg4kVJQCkVV0qeY_xm7vugfv2HlluVJOxLfW_FaeMnz7_A_r56q2BSMBiPCca9-gEkEeRNcSlx3KcD5fuMBQ"
     }
   },
-  "package": "zhele_0.6.4.zhu",
-  "notes": "0.6.4: исправлены классификация повреждённых ключей ZA1/ZA2 и переводы ошибок активации RU/EN, включая начальную ошибку сохранённого ключа. Подписи и права не изменены. Установщик пока без Authenticode, предупреждения Windows возможны.",
-  "setup_sha256": "efbbc8833634b43158d7382265b86fd720cc5ab7b2a8cef1da315d9af5383327",
-  "package_sha256": "c4a77e994d5c285b25830d64d162621de82900870d392642dca9205f8ea1b98e",
-  "setup_bytes": 32396288,
-  "package_bytes": 32425893
+  "package": "zhele_0.6.5.zhu",
+  "notes": "0.6.5: пользовательские имена, пути, программный текст и ответы не изменяются автопереводом интерфейса. Уточнены инструкции CPython 3.12 x64, размеры пакета и границы открытого ядра/внешних API. Native-модули и правила активации сохранены. Установщик без Authenticode; предупреждения Windows возможны.",
+  "setup_sha256": "55ce76b37e5a01ddbcf199c2bdd80204bf6507d7dfbd32b8f26d0e864e9fbfef",
+  "package_sha256": "5cc5232c02d5c25966d797ac3f5959b06552fe5f3801e6943fad698c546222e1",
+  "setup_bytes": 32397824,
+  "package_bytes": 32427659
 }
